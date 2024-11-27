@@ -1,4 +1,4 @@
-# Camera-hack
+# Camera-hacking
 A Proof-of-Concept
 Understanding the Vulnerability
 This repository demonstrates a common vulnerability found in many internet-connected cameras. Insecure default configurations, weak authentication mechanisms, and lack of regular updates can leave these devices susceptible to exploitation.
@@ -12,10 +12,10 @@ This repository demonstrates a common vulnerability found in many internet-conne
 * apt-get install git
 ```
 ```
-* git clone https://github.com/thedeveloper03/Camera-Hack
+* git clone https://github.com/pixelPusher03/Camera-Hacking
 ```
 ```
-* cd Camera-Hack
+* cd Camera-Hacking
 ```
 ```
 * pip install -r requirements.txt
