@@ -1,4 +1,4 @@
-# Camera-hacking
+# Camera-hacking.
 A Proof-of-Concept
 Understanding the Vulnerability
 This repository demonstrates a common vulnerability found in many internet-connected cameras. Insecure default configurations, weak authentication mechanisms, and lack of regular updates can leave these devices susceptible to exploitation.
